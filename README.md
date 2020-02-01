@@ -14,6 +14,10 @@ This folder contains the Jupyter notebook used to calculate Shannon diversity an
 
 This folder contains the Jupyter notebook used to assess and plot univariate correlation at the individual metabolite level using Kendall’s Tau (Supplementary Data 1). 
 
+## PCoA
+
+This folder contains the Jupyter notebook used to create the principal coordinates analysis (PCoA) plot with the Bray-Curtis dissimilarity and the Permutational Multivariate Analysis of Variance (PERMANOVA) used to assess the variation in the metabolome explained by gestational age. 
+
 ## VennDiagram
 
 This folder contains the Jupyter notebook used to create the Venn diagram illustrating overlapping metabolites significantly associated with gestational age by univariate correlation analysis, hypergeometric testing at the molecular family level and LASSO regression (Figure 1d).
