@@ -5,14 +5,15 @@ This repository contains supplementary materials relating to the manuscript
 "Gestational-age dependent development of the neonatal metabolome" by M. Ernst ([@madeleineernst](https://github.com/madeleineernst)), 
 S. Rogers ([@sdrogers](https://github.com/sdrogers)), U. Lausten-Thomsen, A. Bjorkbom, S.S. Laursen, J. Courraud, A.S. Cohen.
 
+## CorrelationAnalysis
+
+This folder contains the Jupyter notebook used to assess and plot univariate correlation at the individual metabolite level using Kendall’s Tau (Supplementary Data 1). 
+
+## HyperGeometricTesting
 
 ## IonRichness_ShannonDiversity
 
 This folder contains the Jupyter notebook used to calculate Shannon diversity and ion richness (Figure 1c Supplementary Figures 2 and 3).
-
-## CorrelationAnalysis
-
-This folder contains the Jupyter notebook used to assess and plot univariate correlation at the individual metabolite level using Kendall’s Tau (Supplementary Data 1). 
 
 ## LASSO
 
@@ -21,6 +22,9 @@ This folder contains the Jupyter notebook adapted from [Wilamnski and collaborat
 ## PCoA
 
 This folder contains the Jupyter notebook used to create the principal coordinates analysis (PCoA) plot with the Bray-Curtis dissimilarity and the Permutational Multivariate Analysis of Variance (PERMANOVA) used to assess the variation in the metabolome explained by gestational age. 
+
+## SpectralMirrorPlots
+
 
 ## VennDiagram
 
