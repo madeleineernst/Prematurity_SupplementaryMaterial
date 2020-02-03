@@ -11,6 +11,8 @@ This folder contains the Jupyter notebook used to assess and plot univariate cor
 
 ## HyperGeometricTesting
 
+This folder contains the Jupyter notebook used to identify chemically structurally related molecular families through hypergeometric testing overrepresented with metabolites correlating with gestational age. 
+
 ## IonRichness_ShannonDiversity
 
 This folder contains the Jupyter notebook used to calculate Shannon diversity and ion richness (Figure 1c Supplementary Figures 2 and 3).
@@ -25,6 +27,7 @@ This folder contains the Jupyter notebook used to create the principal coordinat
 
 ## SpectralMirrorPlots
 
+This folder contains the Jupyter notebook used to create spectral mirror plots of the forty chemically structurally annotated compounds through GNPS library matching correlating significantly with gestational age (false-discovery-rate-adjusted P < 0.05). Data were extracted automatically using the metabolomics USI tool (http://metabolomics-usi.ucsd.edu/) and mirror plots produced in Python using the spectrum_utils package ([Wout (2020)](https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b04884)).
 
 ## VennDiagram
 
