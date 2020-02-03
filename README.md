@@ -40,3 +40,5 @@ https://github.com/madeleineernst/Prematurity_SupplementaryMaterial.
 
 [Wilmanski T, Rappaport N, Earls JC et al. Blood metabolome predicts gut microbiome a-diversity in humans. Nature biotechnology 2019; 37: 1217-1228](https://www.nature.com/articles/s41587-019-0233-9).
 
+[Wout B, spectrum_utils: A Python Package for Mass Spectrometry Data Processing and Visualization. Anal. Chem. 2020; 92: 659-661.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b04884)
+
