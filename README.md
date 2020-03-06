@@ -3,7 +3,8 @@
 
 This repository contains supplementary materials relating to the manuscript 
 "Gestational-age dependent development of the neonatal metabolome" by M. Ernst ([@madeleineernst](https://github.com/madeleineernst)), 
-S. Rogers ([@sdrogers](https://github.com/sdrogers)), U. Lausten-Thomsen, A. Bjorkbom, S.S. Laursen, J. Courraud, A.S. Cohen.
+S. Rogers ([@sdrogers](https://github.com/sdrogers)), U. Lausten-Thomsen, A. Bjorkbom, S.S. Laursen, J. Courraud, 
+A. Børglum, M. Nordentoft, T. Werge, P. B. Mortensen, D. M. Hougaard, A.S. Cohen.
 
 ## CorrelationAnalysis
 
