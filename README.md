@@ -37,7 +37,7 @@ This folder contains the Jupyter notebook used to create the Venn diagram illust
 
 ## Citation
 
-https://github.com/madeleineernst/Prematurity_SupplementaryMaterial.
+[Ernst M, Rogers S, Lausten-Thomsen U, Bjorkbom A, Laursen SS, Courraud J, Borglum A, Nordentoft M, Werge T, Mortensen PB, Hougaard DM, Cohen AS. Gestational-age dependent development of the neonatal metabolome. 2020; medRxiv](https://www.medrxiv.org/content/10.1101/2020.03.27.20045534v1).
 
 [Wilmanski T, Rappaport N, Earls JC et al. Blood metabolome predicts gut microbiome a-diversity in humans. Nature biotechnology 2019; 37: 1217-1228](https://www.nature.com/articles/s41587-019-0233-9).
 
