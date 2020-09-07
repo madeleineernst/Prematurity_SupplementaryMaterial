@@ -6,6 +6,11 @@ This repository contains supplementary materials relating to the manuscript
 S. Rogers ([@sdrogers](https://github.com/sdrogers)), U. Lausten-Thomsen, A. Bjorkbom, S.S. Laursen, J. Courraud, 
 A. Børglum, M. Nordentoft, T. Werge, P. B. Mortensen, D. M. Hougaard, A.S. Cohen.
 
+## BatchNormalization
+
+This folder contains the Jupyter notebook used for batch normalization and removal of blank features before statistical analysis. 
+
+
 ## CorrelationAnalysis
 
 This folder contains the Jupyter notebook used to assess and plot univariate correlation at the individual metabolite level using Kendall’s Tau (Supplementary Data 1). 
