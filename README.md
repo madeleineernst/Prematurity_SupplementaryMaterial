@@ -10,6 +10,10 @@ A. Børglum, M. Nordentoft, T. Werge, P. B. Mortensen, D. M. Hougaard, A.S. Cohe
 
 This folder contains the Jupyter notebook used to assess and plot univariate correlation at the individual metabolite level using Kendall’s Tau (Supplementary Data 1). 
 
+## Heatmap
+
+This folder contains the Jupyter notebook used to create a heatmap of all annotated features significantly related to gestational age by univariate correlation analysis, hypergeometric testing at the molecular family level or LASSO regression. 
+
 ## HyperGeometricTesting
 
 This folder contains the Jupyter notebook used to identify chemically structurally related molecular families through hypergeometric testing overrepresented with metabolites correlating with gestational age. 
